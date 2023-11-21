@@ -1,0 +1,7 @@
+C:\Users\Dell\source\Day12\Assignment17\Assignment17\bin\Debug\Assignment17.exe.config
+C:\Users\Dell\source\Day12\Assignment17\Assignment17\bin\Debug\Assignment17.exe
+C:\Users\Dell\source\Day12\Assignment17\Assignment17\bin\Debug\Assignment17.pdb
+C:\Users\Dell\source\Day12\Assignment17\Assignment17\obj\Debug\Assignment17.csproj.AssemblyReference.cache
+C:\Users\Dell\source\Day12\Assignment17\Assignment17\obj\Debug\Assignment17.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Day12\Assignment17\Assignment17\obj\Debug\Assignment17.exe
+C:\Users\Dell\source\Day12\Assignment17\Assignment17\obj\Debug\Assignment17.pdb
